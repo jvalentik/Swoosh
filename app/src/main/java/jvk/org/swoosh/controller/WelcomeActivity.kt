@@ -1,10 +1,11 @@
-package jvk.org.swoosh
+package jvk.org.swoosh.controller
 
 import android.content.Intent
 import android.os.Bundle
 import com.firebase.ui.auth.AuthUI
 import com.google.android.gms.common.Scopes
 import com.google.firebase.auth.FirebaseAuth
+import jvk.org.swoosh.R
 import kotlinx.android.synthetic.main.activity_welcome.*
 
 
