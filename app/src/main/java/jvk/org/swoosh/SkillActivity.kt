@@ -2,10 +2,10 @@ package jvk.org.swoosh
 
 import android.os.Bundle
 
-class LeagueActivity : BaseActivity() {
+class SkillActivity : BaseActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_league)
+        setContentView(R.layout.activity_skill)
     }
 }
