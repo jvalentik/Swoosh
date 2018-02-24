@@ -12,4 +12,9 @@
     <string name="women_s">Women\'s</string>
     <string name="co_ed">CO_ED</string>
     <string name="next">NEXT</string>
+    <string name="im_a">Im a:</string>
+    <string name="beginner">BEGINNER</string>
+    <string name="baller">BALLER</string>
+    <string name="finish">FINISH</string>
+    <string name="search_league">Looking for %s %s league near you...</string>
 </resources>
